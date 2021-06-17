@@ -1,0 +1,10 @@
+.corps{
+    background-color: #F8F8FB;
+    padding:0px 15px 0px 15px;
+    height: 600px; 
+    margin-top: 80px;
+}
+
+#etat{
+    color: red;
+}

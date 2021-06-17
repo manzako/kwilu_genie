@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "manzako",
+    "password": "mangombe",
+    "database": "kwiludev",
+    "host": "kwiludev.c73gbm3degea.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "manzako",
+    "password": "mangombe",
+    "database": "kwilu_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "manzako",
+    "password": "mangombe",
+    "database": "kwiludev",
+    "host": "kwiludev.c73gbm3degea.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}

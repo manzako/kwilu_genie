@@ -1,0 +1,87 @@
+.Segment1{
+    width: 70px;
+    height:70px;
+    background: rgba(113, 59, 219, 0.05);
+    border-radius:360px;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.Segment2{
+    width: 70px;
+    height:70px;
+    background: rgba(51, 214, 159, 0.07);
+    border-radius:360px;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.Segment3{
+    width: 70px;
+    height:70px;
+    background:rgba(255, 76, 97, 0.05);
+    border-radius: 360px;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center
+}
+
+.Segment4{
+    width: 70px;
+    height:70px;
+    background:rgba(113, 59, 219, 0.05);
+    border-radius: 360px;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center
+}
+
+.CercleSub3{
+    width: 70px;
+    height:70px;
+    background:rgba(113, 59, 219, 0.05);
+    border-radius: 360px;
+    margin-left: 1rem;
+    display: flex;
+    align-items: center
+}
+
+
+.Icon1{
+    margin-left: 2.1rem;
+    color: #21BBC7
+}
+
+.Icon2{
+    margin-left: 2.1rem; 
+    color: rgb(45, 0, 128); 
+}
+
+.Icon3{
+    margin-left: 2.1rem; 
+    color: rgb(51, 27, 156);
+}
+
+.Legend{
+    margin-left:100px; 
+    margin-top:5px; 
+    color: rgb(97, 94, 94);
+}
+
+.LegendClient{
+    margin-left:130px; 
+    margin-top:5px; 
+    color: rgb(97, 94, 94);
+    font-size: medium;
+}
+
+.LegendMarchandises{
+    margin-left:110px; 
+    margin-top:5px; 
+    color: rgb(97, 94, 94);
+    font-size: medium;
+}
+
+

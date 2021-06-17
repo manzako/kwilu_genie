@@ -1,0 +1,95 @@
+.sec-container {
+  margin-top: 5rem;
+  width: 95%;
+  margin-left: 2%;
+  margin-right: 0;
+}
+
+.titre {
+  display: flex;
+}
+
+.groupe {
+  margin-bottom: 50px;
+  
+}
+.seg-group {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+  
+  
+}
+
+.seg-list {
+  margin-left: 1%;
+  width: 700px;
+}
+
+.heureDebut {
+  margin-left: 5%;
+  width: 30%;
+}
+.heureFin {
+  margin-left: 13%;
+  width: 30%;
+}
+
+.seg-list > div:first-child {
+  margin-bottom: 3%;
+}
+.seg-list > div:nth-child(2) > div {
+  margin-bottom: 2%;
+}
+
+#transporteur {
+  margin-left: 10px;
+}
+
+
+.detailInfo {
+  color: green;
+  margin-left: 10px;
+}
+
+#BL {
+  padding-bottom: 50px;
+}
+
+.primary {
+  padding: 0px 30px 10px 30px;
+}
+
+.section-commentaire {
+  box-shadow: 0 0 1px;
+  border-radius: 5px;
+  background-color: white;
+  padding-bottom: 15px;
+}
+
+.seg-com {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.seg-com .Btn-icone {
+  margin-left: 95%;
+}
+
+
+.containerPhotoBon{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 300px;
+  padding: 5px;
+}
+
+.containerPhotoBon > div {
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+/* .imageBL{
+  width: "50px" !important;
+} */

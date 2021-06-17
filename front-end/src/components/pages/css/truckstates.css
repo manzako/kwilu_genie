@@ -1,0 +1,26 @@
+.truck-state{
+   margin-top: 0px;
+    height: 70px;
+    
+}
+.truck-state1:hover {
+    background-color: #F2711C !important;
+    cursor: pointer;
+    color: white !important;
+}
+
+.truck-state1 > *:hover {
+    color: white !important;
+}
+.truck-state2:hover {
+    background-color: blue !important;
+    cursor: pointer;
+    color: white !important;
+
+}
+.truck-state3:hover {
+    background-color: #16AB39 !important;
+    cursor: pointer;
+    color: white !important;
+
+}

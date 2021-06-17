@@ -1,0 +1,27 @@
+#infoTrans{
+    background-color: white;
+    
+}
+.droite{
+    float: right;
+}
+.contenu{
+margin-top:200px;
+}
+#ajout{
+    margin-top: 350px;
+    margin-left: 80px;
+    /* float: right; */
+}
+.scroll{
+height: 100px;
+border: 2px solid  black;
+
+}
+.etat{
+    margin-left: 350px;
+    margin-top:87px;
+}
+.btnGroup{
+    float: right;
+}
